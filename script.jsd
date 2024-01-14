@@ -1,0 +1,5 @@
+document.getElementById("mytxt2").innerHTML = "Hello Impact";
+
+let var1 = document.getElementById
+
+document.getElementById("mytxt2).innerHTML = "Hello Impact";
